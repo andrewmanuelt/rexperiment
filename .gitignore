@@ -1,0 +1,9 @@
+**/__pycache__
+
+dataset/*parsed.json
+dataset/berita_all.json
+
+eval/content/*
+eval/hyperparameter/*
+
+sandbox/*
